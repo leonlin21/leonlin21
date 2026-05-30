@@ -33,9 +33,3 @@
 - ▶️ YouTube：[Eryi](https://www.youtube.com/channel/UCRZoyvSkYhYBQyQotbtPJNQ)
 - 🧭 FLO.W：[21notion.com](https://21notion.com)
 - 🗂️ FLO.W Obsidian：[21obsidian.com](https://21obsidian.com)
-
-### 📊 GitHub 数据
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonlin21&show_icons=true&hide_border=true&locale=cn" alt="GitHub Stats" />
-</p>
